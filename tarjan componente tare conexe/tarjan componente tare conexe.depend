@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604167863 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\tarjan componente tare conexe\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+

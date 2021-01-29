@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610816452 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\tema2\edmonds-karp flux maxim\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<queue>
+	<string.h>
+
