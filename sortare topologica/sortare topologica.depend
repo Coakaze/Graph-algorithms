@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604931002 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\sortare topologica\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

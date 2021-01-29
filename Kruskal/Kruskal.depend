@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609780504 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\tema2\kruskal\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
