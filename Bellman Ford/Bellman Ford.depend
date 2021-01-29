@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609792668 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\tema2\bellman ford\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

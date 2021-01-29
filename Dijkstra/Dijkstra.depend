@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609851499 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\tema2\dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

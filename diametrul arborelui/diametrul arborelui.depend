@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605122202 source:c:\users\rotar\onedrive\desktop\algoritmi fundamentali\diametrul arborelui\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
